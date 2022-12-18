@@ -1,0 +1,65 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="header_shadow_size">5dp</dimen>
+    <dimen name="nav_header_height">44.2dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="timelayoutspadding">40dp</dimen>
+    <dimen name="design_navigation_icon_padding">10dp</dimen>
+    <dimen name="design_navigation_separator_vertical_padding">0dp</dimen>
+    <dimen name="buttontextSize">6sp</dimen>
+    <dimen name="common_padding">5dp</dimen>
+    <dimen name="normaltextSize">7.5sp</dimen>
+    <dimen name="mediumtextSize">10sp</dimen>
+    <dimen name="floatingbuttonstartmargin">125dp</dimen>
+    <dimen name="floatingbuttonmargintop">241.7dp</dimen>
+    <dimen name="textunderlogo">13.3sp</dimen>
+    <dimen name="logofieldstext">8.3sp</dimen>
+    <dimen name="logowidth">50dp</dimen>
+    <dimen name="navmargintop">10.4dp</dimen>
+    <dimen name="navheadermarginstart">20.8dp</dimen>
+    <dimen name="drawerimagewidthheigth">20.8dp</dimen>
+    <dimen name="logoheight">50dp</dimen>
+    <dimen name="clockframe">83.3dp</dimen>
+    <dimen name="sector">54.2dp</dimen>
+    <dimen name="sectormarginleft">6.2dp</dimen>
+    <dimen name="sectormargintop">10dp</dimen>
+    <dimen name="textsizeremainingtime">16.7sp</dimen>
+    <dimen name="margintop">4.2dp</dimen>
+    <dimen name="marginleftright">8.3dp</dimen>
+    <dimen name="selectdevicebuttontoppadding">54.2dp</dimen>
+
+    <item name="match_parent" format="integer" type="dimen">-1</item>
+    <item name="wrap_content" format="integer" type="dimen">-2</item>
+    <dimen name="auth_page_margin">24dp</dimen>
+    <dimen name="folded_size">20sp</dimen>
+    <dimen name="unfolded_size">40sp</dimen>
+    <dimen name="option_size">56dp</dimen>
+    <dimen name="text_padding">16dp</dimen>
+    <dimen name="input_width">220dp</dimen>
+    <dimen name="label_size">20sp</dimen>
+    <dimen name="folded_label_padding">22sp</dimen>
+    <dimen name="logo_size">64dp</dimen>
+    <dimen name="guideline_margin">56dp</dimen>
+    <dimen name="text_size">30dp</dimen>
+    <dimen name="selected_text_size">35dp</dimen>
+
+    <dimen name="margin_min">5dp</dimen>
+    <dimen name="margin_avg">10dp</dimen>
+    <dimen name="margin_max">15dp</dimen>
+    <dimen name="margin_2max">30dp</dimen>
+    <dimen name="margin_xmax">20dp</dimen>
+    <dimen name="margin_xxmax">30dp</dimen>
+
+    <dimen name="text_small">10sp</dimen>
+    <dimen name="text_normal">12sp</dimen>
+    <dimen name="text_large">14sp</dimen>
+    <dimen name="text_xlarge">16sp</dimen>
+    <dimen name="text_xxlarge">18sp</dimen>
+    <dimen name="text_xxxlarge">22sp</dimen>
+    <dimen name="text_xxxxlarge">26sp</dimen>
+
+    <dimen name="image_height">140dp</dimen>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+	<dimen name="timelayoutspadding">96dp</dimen>
+	<dimen name="design_navigation_separator_vertical_padding">0dp</dimen>
+	<dimen name="activity_vertical_margin">38.4dp</dimen>
+	<dimen name="nav_header_vertical_spacing">19.2dp</dimen>
+	<dimen name="activity_horizontal_margin">38.4dp</dimen>
+	<dimen name="fab_margin">38.4dp</dimen>
+	<dimen name="nav_header_height">106dp</dimen>
+	<dimen name="design_navigation_icon_padding">24dp</dimen>
+	<dimen name="buttontextSize">14.4sp</dimen>
+	<dimen name="normaltextSize">18sp</dimen>
+	<dimen name="logofieldstext">20sp</dimen>
+	<dimen name="mediumtextSize">24sp</dimen>
+	<dimen name="floatingbuttonstartmargin">300dp</dimen>
+	<dimen name="floatingbuttonmargintop">580dp</dimen>
+	<dimen name="textunderlogo">32sp</dimen>
+	<dimen name="logowidth">120dp</dimen>
+	<dimen name="logoheight">120dp</dimen>
+	<dimen name="navmargintop">25dp</dimen>
+	<dimen name="navheadermarginstart">50dp</dimen>
+	<dimen name="drawerimagewidthheigth">50dp</dimen>
+	<dimen name="clockframe">200dp</dimen>
+	<dimen name="sector">130dp</dimen>
+	<dimen name="sectormarginleft">15dp</dimen>
+	<dimen name="sectormargintop">24dp</dimen>
+	<dimen name="textsizeremainingtime">40sp</dimen>
+	<dimen name="margintop">10dp</dimen>
+	<dimen name="marginleftright">20dp</dimen>
+	<dimen name="selectdevicebuttontoppadding">130dp</dimen>
+
+
+	<item name="match_parent" format="integer" type="dimen">-1</item>
+	<item name="wrap_content" format="integer" type="dimen">-2</item>
+	<dimen name="auth_page_margin">24dp</dimen>
+	<dimen name="folded_size">20sp</dimen>
+	<dimen name="unfolded_size">40sp</dimen>
+	<dimen name="option_size">56dp</dimen>
+	<dimen name="text_padding">16dp</dimen>
+	<dimen name="input_width">220dp</dimen>
+	<dimen name="label_size">20sp</dimen>
+	<dimen name="folded_label_padding">22sp</dimen>
+	<dimen name="logo_size">64dp</dimen>
+	<dimen name="guideline_margin">56dp</dimen>
+</resources>

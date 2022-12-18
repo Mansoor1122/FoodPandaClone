@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:background="@drawable/new_design_app_gradient_bg"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+<de.hdodenhof.circleimageview.CircleImageView
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:id="@+id/prof_iv"
+    android:layout_margin="15dp"
+    android:background="@drawable/prof_avatar"
+    android:backgroundTint="@color/white"
+    >
+
+</de.hdodenhof.circleimageview.CircleImageView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/prof_iv"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/prof_name_tv"
+            android:layout_toRightOf="@+id/prof_iv"
+            android:layout_centerVertical="true"
+            android:textSize="16sp"
+            android:text="Mansoor Ahmad"
+            android:textColor="@color/white"
+            android:fontFamily="@font/dosis_medium"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/prof_desg_tv"
+            android:layout_toRightOf="@+id/prof_iv"
+            android:fontFamily="@font/dosis_medium"
+            android:textSize="16sp"
+            android:text=""
+            android:layout_below="@+id/prof_name_tv"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/white"
+            android:visibility="visible"
+            ></TextView>
+    </LinearLayout>
+
+</RelativeLayout>
+
